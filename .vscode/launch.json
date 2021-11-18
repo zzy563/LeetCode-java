@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LC29",
+            "request": "launch",
+            "mainClass": "LC29",
+            "projectName": "LeetCode_9eb65fff"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
